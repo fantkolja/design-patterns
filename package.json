@@ -1,0 +1,28 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "To learn design patterns (finally)",
+  "main": "index.js",
+  "scripts": {
+    "strategy": "ts-node ./strategy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantkolja/design-patterns.git"
+  },
+  "keywords": [
+    "design",
+    "pattenrs",
+    "typescript"
+  ],
+  "author": "Mykola Fant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fantkolja/design-patterns/issues"
+  },
+  "homepage": "https://github.com/fantkolja/design-patterns#readme",
+  "dependencies": {
+    "typescript": "3.3.3",
+    "ts-node": "^8.0.3"
+  }
+}
