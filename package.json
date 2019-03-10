@@ -4,7 +4,8 @@
   "description": "To learn design patterns (finally)",
   "main": "index.js",
   "scripts": {
-    "strategy": "ts-node ./strategy"
+    "strategy": "ts-node ./strategy",
+    "decorator": "ts-node ./decorator"
   },
   "repository": {
     "type": "git",
