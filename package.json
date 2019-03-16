@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "strategy": "ts-node ./strategy",
-    "decorator": "ts-node ./decorator"
+    "decorator": "ts-node ./decorator",
+    "factory-method": "ts-node ./factory-method"
   },
   "repository": {
     "type": "git",

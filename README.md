@@ -6,5 +6,8 @@
 - strive for loosely coupled design between objects that interact;
 - depend upon abstractions, don't depend upon concrete classes (Dependency Inversion Principle);
 
-# The Decorator Pattern
+# Decorator
 Decorators attach additional responsibilities to the objects dinamically. Decorators provide flexible alternatives to subclassing for extending functionality.
+
+# Factory Method
+Creates an interface for creating an object but lets the subclasses deside which class to instantiate. Factory Method lets a class defer instantiation to the subclasses
