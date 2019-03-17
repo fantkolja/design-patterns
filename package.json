@@ -6,7 +6,8 @@
   "scripts": {
     "strategy": "ts-node ./strategy",
     "decorator": "ts-node ./decorator",
-    "factory-method": "ts-node ./factory-method"
+    "factory-method": "ts-node ./factory-method",
+    "abstract-factory": "ts-node ./abstract-factory"
   },
   "repository": {
     "type": "git",

@@ -11,3 +11,7 @@ Decorators attach additional responsibilities to the objects dinamically. Decora
 
 # Factory Method
 Creates an interface for creating an object but lets the subclasses deside which class to instantiate. Factory Method lets a class defer instantiation to the subclasses
+
+# Abstract Factory
+Provides interface for creating families of related or dependant objects without specifying their concrete classes.
+
