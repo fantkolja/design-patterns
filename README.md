@@ -15,3 +15,5 @@ Creates an interface for creating an object but lets the subclasses deside which
 # Abstract Factory
 Provides interface for creating families of related or dependant objects without specifying their concrete classes.
 
+# Command
+Encapsulates request as an object, thereby letting you parametrize other objects with different requests, queue or log requests, and support undoable operations.

@@ -8,7 +8,8 @@
     "decorator": "ts-node ./decorator",
     "factory-method": "ts-node ./factory-method",
     "abstract-factory": "ts-node ./abstract-factory",
-    "singleton": "ts-node ./singleton"
+    "singleton": "ts-node ./singleton",
+    "command": "ts-node ./command"
   },
   "repository": {
     "type": "git",
