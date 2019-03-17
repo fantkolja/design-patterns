@@ -7,7 +7,8 @@
     "strategy": "ts-node ./strategy",
     "decorator": "ts-node ./decorator",
     "factory-method": "ts-node ./factory-method",
-    "abstract-factory": "ts-node ./abstract-factory"
+    "abstract-factory": "ts-node ./abstract-factory",
+    "singleton": "ts-node ./singleton"
   },
   "repository": {
     "type": "git",
