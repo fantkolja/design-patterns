@@ -4,9 +4,9 @@ import { GarageDoor } from "./GarageDoor";
 export class GarageOpenCommand implements Command {
   constructor(private garageDoor: GarageDoor) {}
   public execute(): void {
-    this.garageDoor.up();
+    this.garageDoor.down();
   }
   public undo() {
-    this.garageDoor.down();
+    this.garageDoor.up();
   }
 }
