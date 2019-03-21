@@ -9,7 +9,8 @@
     "factory-method": "ts-node ./factory-method",
     "abstract-factory": "ts-node ./abstract-factory",
     "singleton": "ts-node ./singleton",
-    "command": "ts-node ./command"
+    "command": "ts-node ./command",
+    "adapter": "ts-node ./adapter"
   },
   "repository": {
     "type": "git",

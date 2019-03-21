@@ -17,3 +17,6 @@ Provides interface for creating families of related or dependant objects without
 
 # Command
 Encapsulates request as an object, thereby letting you parametrize other objects with different requests, queue or log requests, and support undoable operations.
+
+# Adapter
+Converts the interface of a class into another interface the client expects. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
