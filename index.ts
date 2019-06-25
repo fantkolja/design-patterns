@@ -5,7 +5,6 @@ import { prompt } from 'inquirer';
 
 const PATTERNS_ROOT = 'patterns';
 
-debugger;
 function isDirectory(source) {
     return lstatSync(source).isDirectory();
 }
