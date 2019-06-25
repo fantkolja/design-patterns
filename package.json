@@ -4,13 +4,8 @@
   "description": "To learn design patterns (finally)",
   "main": "index.js",
   "scripts": {
-    "strategy": "ts-node ./strategy",
-    "decorator": "ts-node ./decorator",
-    "factory-method": "ts-node ./factory-method",
-    "abstract-factory": "ts-node ./abstract-factory",
-    "singleton": "ts-node ./singleton",
-    "command": "ts-node ./command",
-    "adapter": "ts-node ./adapter"
+    "pattern": "ts-node ./",
+    "debug": "node  --inspect-brk ./node_modules/ts-node/dist/bin ./"
   },
   "repository": {
     "type": "git",
@@ -28,7 +23,9 @@
   },
   "homepage": "https://github.com/fantkolja/design-patterns#readme",
   "dependencies": {
-    "typescript": "3.3.3",
-    "ts-node": "^8.0.3"
+    "@types/node": "^12.0.10",
+    "inquirer": "^6.4.1",
+    "ts-node": "^8.0.3",
+    "typescript": "3.3.3"
   }
 }
